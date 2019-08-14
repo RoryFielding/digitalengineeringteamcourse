@@ -10,6 +10,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="digitalengineeringteamcourse.main" target="1.8" />
+      <module name="digitalengineeringteamcourse.test" target="1.8" />
       <module name="gs-rest-service" target="1.8" />
     </bytecodeTargetLevel>
   </component>

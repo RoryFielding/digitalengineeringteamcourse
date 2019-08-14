@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.controllers.UserControllerTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2019-08-14T12:40:27" hostname="C02XC6T5JG5L" time="0.064">
+  <properties/>
+  <testcase name="testCreateUser" classname="test.controllers.UserControllerTest" time="0.053"/>
+  <testcase name="testDeleteUser" classname="test.controllers.UserControllerTest" time="0.003"/>
+  <testcase name="testGetAllUsers" classname="test.controllers.UserControllerTest" time="0.001"/>
+  <testcase name="testGetUserResponse" classname="test.controllers.UserControllerTest" time="0.005"/>
+  <testcase name="testModifyUserById" classname="test.controllers.UserControllerTest" time="0.0"/>
+  <system-out><![CDATA[[ERROR] 2019-08-14 13:40:27.763 [Test worker] UserController - UserController
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
